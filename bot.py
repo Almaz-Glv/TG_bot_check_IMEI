@@ -4,7 +4,7 @@ import telebot
 from imei_check import check_imei
 
 
-API_TOKEN = '7770867528:AAEE5XYwUU2_czU7esCdYFUx15Y-e-E1hvQ'
+API_TOKEN = 'YOUR_API_TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 
